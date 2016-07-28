@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/mauran
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://maumauhosting.xyz
+  * I am mauran (https://keybase.io/mauran) on keybase.
+  * I have a public key with fingerprint A750 9A1C 3352 CCC2 7115  D898 97A1 AAA4 E991 D0A7
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010157973b96a32a2ac7a9f0cded7b3392881aad556893e3e5afe53758d8e7a39d140a",
+            "fingerprint": "a7509a1c3352ccc27115d89897a1aaa4e991d0a7",
+            "host": "keybase.io",
+            "key_id": "97a1aaa4e991d0a7",
+            "kid": "010157973b96a32a2ac7a9f0cded7b3392881aad556893e3e5afe53758d8e7a39d140a",
+            "uid": "28a90ca06611104d150513a0a5102100",
+            "username": "mauran"
+        },
+        "service": {
+            "hostname": "maumauhosting.xyz",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1469695259,
+    "expire_in": 157680000,
+    "prev": "a576a8803447175b47482587f42861a7e2a5d653ff6255f7d799937aec586e89",
+    "seqno": 45,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBVBGD5HLbxQKdhDKlkbdNGj7Ozu7MycECt66oJFkgXCYc7unON6
+2T3t2eO1g1pgUEn0aDeorEhCIQhTRLPsIUXMLiCCBBmVIZRRhCjRrBS99NgwMMz/
+f9833//PP7Im0ZPqfbcr60iRER/3jg1fjnnKOp5mNwlBS28Q/E1CFVs5WLXOok6g
+ytAFvyACEUBEkBwkKpUlKlENURISNZ3pKCjLRMIYUKpDqGIiM5lBGmJQRhDrmCEq
+Ex0oIhV8Qsgww8yO2IbpcFmKoEgo0GQZSpqmSQgAqGOCCaJcjSqMEKCLFHFihRV1
+GdxckEZZoWHxGL8EVuz9A/+ffcdW5CRMiahRUVUBAKKiAyhCIFORQiBKQBRdYJTZ
+Jq1hHF1DYzY1hbhP4LFaQ2NuW906/ub5dgO8KYX1DY2cHrEtx9Ksap6ucJxI1O/S
+nYaIi69jwcBvpUDQMHXO4oxaZkcNyxT8gCM1x3ClgaISlUAJEp/A6iOGzQKGi4BI
+xSJf7jus1v0AHqEYi7KiIIBgUEEKliBGIUXCKqCISRTqKpRDIVWCMIR0RAiREWUa
+xCrDRHBrO2Fagl+B3CcNc82oETapE7OZEH/8qDzJ4031rF6V4M6YJzUl/c/k1RnJ
+ns5VBXd/lO/xtfe9qTzdVzx+QdZL0K2M3T9vZpQsls0c6h5OqOkoeT1xffrAi/v+
+jvqS9k6a5eTOs+7OkbX5Y2/n40f7m881Tu170mVtPx3IOztRbJ/aNj/7taE9pSh3
+cUY2B2e1RE/kU+XDnoLmG713jh8uPV/XdQVMf1/KH1pKdt5nVpVPju4nE/ueJ768
+Nlo30FT9OTx5J/vLco6/v2Kqa+CAr2fDybSZhey0wmOX9j7rLB6fS1+f3b9558W9
+eAQK8aEtH9tKW5KutqaNriE0Lac189WH8oO0qzKjMmPhQXfturyDsWW447Z3LiEl
+vTe+qUXJYelnkjd+u9e2Z3DrL9GTOdo=
+=RLxC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mauran
+
+==================================================================
+
